@@ -61,8 +61,7 @@
     <Reference Include="System.Data.Linq" />
     <Reference Include="System.Web" />
     <Reference Include="Telerik.JustMock">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Libraries\Telerik.JustMock.dll</HintPath>
+      <HintPath>..\References\Telerik.JustMock.dll</HintPath>
     </Reference>
     <Reference Include="Telerik.OpenAccess, Version=2013.2.702.1, Culture=neutral, PublicKeyToken=7ce17eeaf1d59342, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
